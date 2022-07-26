@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # MINTWAY Portal White paper
 
 ## **What is MINTWAY Portal?**&#x20;
