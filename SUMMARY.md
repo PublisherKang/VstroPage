@@ -34,3 +34,7 @@
   * [9. MINTWAY Membership service](the-company/.-mintway-dapp-platform/9.-mintway-membership-service.md)
 * [Ⅵ. TOKEN PLAN](the-company/.-token-plan/README.md)
   * [1. SUMMARY](the-company/.-token-plan/1.-summary.md)
+  * [2. DISTRIBUTION](the-company/.-token-plan/2.-distribution.md)
+  * [3. TOKEN SUPPLY](the-company/.-token-plan/3.-token-supply.md)
+  * [4. ROADMAP](the-company/.-token-plan/4.-roadmap.md)
+* [Legal Notice](the-company/legal-notice.md)
