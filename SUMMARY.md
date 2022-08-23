@@ -1,7 +1,7 @@
 # Table of contents
 
 * [MINTWAY Portal White paper](README.md)
-  * [Mintway](https://app.gitbook.com/o/FqdgNV4pieSiGDOiIcMd/s/Yn1Nm8fIEWFWcjulLlP6/)
+  * [MintWay](https://mintway.io)
 
 ## The Company
 
