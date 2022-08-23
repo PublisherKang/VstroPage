@@ -1,112 +1,83 @@
-# Legal Notice
+# 법적 고지
 
-(1) this Whitepaper has been distributed only for general reference purposes to the MINTWAY Platform project based on the time of writing and may be reviewed and modified. The information described in this document may be changed or updated from time to time.
+(a) 본 백서는 작성 당시를 기준으로 프로젝트와 관련 일반 참고 목적으로만 배포되었으며 검토 및 수정될 수 있습니다. 본 백서는 표지의 날짜를 기준으로 최신 정보를 반영하고 있으며 최종본이 아님을 유의하시기 바랍니다. 해당 날짜 이후 프로젝트의 사업 운영, 재정 상태 등 본 문서에 기재된 정보가 변경될 수 있습니다. 본 백서는 비정기적으로 업데이트될 수 있습니다.
 
-(2) No one is obliged to enter into a related contract or legally binding pledge with the sale of MINTWAY Platform Token(Minti), and no funds shall be received on the basis of this Whitepaper.
+(b) 토큰의 매매와 관련 계약 또는 법적 구속력 있는 서약을 체결할 의무는 그 누구에게도 없으며 본 백서를 근거로 자금을 수수해서는 안됩니다. 토큰의 매매는 법적 구속력 있는 계약서를 통해 이루어지며, 관련 세부사항은 본 백서와 별도로 제공됩니다. 계약서와 본 백서의 내용 간 불일치가 발생하는 경우 계약서가 우선 적용됩니다.
 
-(3) This Whitepaper shall not, in any event, constitute a token sale or purchase offer from an Token issuer/distributor/company, and the presentation of this document (or document itself) should not be considered or relied on for any contract or investment decision.
+(c) 본 백서는 그 어떤 경우에도 토큰 발행인/배포자/업체의 토큰 판매 또는 구매 제안으로 해석되지 않아야 하며, 이 문서의 제시 또는 문서 자체가 계약 및 투자 결정에 근거가 되거나 의존되어서는 안됩니다.
 
-(4) This Whitepaper is not provided in a business plan, business statement, proposal, etc., and should not be construed as an investment offer or recruitment, such as securities, units of business trust, units of the collective investment plan, etc.
+(d) 토큰은 증권, 사업신탁의 단위, 또는 집단 투자 계획의 단위를 구성하기 위한 것이 아니며, 이에 대한 각 정의는 소정의 법률 규정 또는 기타 관할 구역의 동등한 규정에 명시된 정의를 따릅니다. 따라서 본 백서는 사업 계획서, 사업 설명서, 제안서 등으로 제공된 것이 아니며, 그 어떤 관할권에서도 증권, 사업신탁의 단위, 집단 투자 계획의 단위 등 투자 제안이나 모집으로 해석되어서는 안됩니다.
 
-(5) The Token is a not a securities product, and accordingly, for the avoidance of doubt, nothing in this white paper should be construed to mean that (i) the holder of the Token will receive a financial benefit by virtue of their holding, ownership or possession of the Token; (ii) that MINTWAY has a legal obligation to repay the holder in full or part for his purchase of any Token (whether by refunds or redemption or otherwise); (iii) that the Minti Token will provide the holder with direct or indirect exposure to assets of MINTWAY; or (iv) the Minti Token will provide the holder with a payment of interest.
+(e) 토큰이 구매자들에게 플랫폼 참여나 투자수익/수입/지급/이익 또는 그 금액의 일부를 수령할 수 있는 기회로 이해, 해석, 분류, 취급되어서는 안됩니다.
 
-(6) The information in this Whitepaper has not been reviewed, inspected, or approved by regulators. This action has not been taken in any jurisdiction and will never be taken.
+(f) 본 백서에 명시된 토큰 발행 방식이 규제 또는 금지된 관할권에서 이 문서의 전체 또는 일부를 복제, 배포 등 전파할 수 없습니다.
 
-(7) If you wish to purchase Token, you should not understand, interpret, classify, or treat Token as follows:.
+(g) 본 백서에 기재된 정보는 규제당국의 검토, 검사, 승인을 거치지 않았습니다. 이러한 조치는 그 어떤 관할권에서도 취해지지 않았으며 앞으로도 없을 것입니다.
 
-\- Money other than cryptocurrency
+(h) 토큰의 구매를 희망하는 경우 토큰을 다음과 같이 이해, 해석, 분류, 취급해서는 안됩니다.
 
-\- Bonds and stocks issued by any institution
-
-\- Rights, options, derivatives for these bonds and stocks
-
-\- The rights under contracts for difference or other contracts to guarantee investment returns or to avoid losses
-
-\- Units or derivatives of securities, such as collective investment plans and business trusts
+a. 암호화폐가 아닌 다른 화폐, b. 그 어떤 기관에서 발행한 채권 및 주식, c. 이러한 채권 및 주식에 대한 권한, 옵션, 파생상품, d. 투자수익 보장 또는 손실 회피가 목적이거나 이를 목적으로 사칭하는 차액계약 및 기타 계약 하의 권리, e. 집단 투자 계획, 사업신탁 등 증권의 단위 또는 파생상품.
 
 &#x20;
 
-**Restrictions on distribution and propagation**
+#### 배포 및 전파의 제한
 
-(1) Distribution or propagation of all or part of this whitepaper may be prohibited and restricted by the laws or regulatory requirements of any jurisdiction. If the restrictions apply, you must be aware of, seek legal advice, and comply with, and Cloudlabs Pte. Ltd. and it’s employees, representatives, associates, etc. (hereinafter referred to as ‘we and affiliates') are not responsible for them.
+(a) 본 백서의 전체 또는 일부를 배포 또는 전파하는 것은 그 어떤 관할권의 법률 또는 규제 요구사항에 의해 금지 및 제한될 수 있습니다. 제한이 적용되는 경우, 귀하는 본 백서의 소지에 의해 적용될 수 있는 제한사항을 스스로 숙지하고 법률 등 자문을 구하고 이를 준수해야 하며, 본사와 본사 직원, 대리인, 관계사 등(이하 ‘본사 및 관계사’)은 이에 대한 책임을 지지 않습니다.
 
-(2) If you have read or possessed this white paper due to distribution and dissemination, you must not share this white paper or its contents with others for any purpose in any other way such as distribution, duplication, etc. and must not allow or cause this situation.
-
-&#x20;
-
-**Excluding Responsibility**
-
-(1) Related services provided by Token, us and our affiliates are provided 'as it is' and 'as possible'. We and our affiliates state that they do not explicitly or implicitly guarantee or describe the accessibility, quality, suitability, accuracy, adequacy, completeness, and that they bear no responsibility for errors, delays, omissions, or actions taken dependent on them.
-
-(2) We and our affiliates do not describe, guarantee, promise, or claim to any subject or individual any form of authenticity, accuracy or completeness, including the information set forth in this Whitepaper.
-
-(3) We and our affiliates assume no contractual or tort liability,  for any indirect, special, incidental, or consequential losses (including but not limited to losses in investment/income/profit, utilization, and data) arising from your acceptance or reliance on this Whitepaper. And this applies to the fullest extent permitted by applicable laws and regulations.
+(b) 배포 및 전파로 인해 본 백서를 열람 또는 소지하게 된 경우 그 어떤 목적으로든 본 백서 또는 그 내용을 배포, 복제 등 기타 방식으로 다른 사람에게 공유하거나 이러한 상황이 벌어지도록 허용 및 원인제공을 해서는 안됩니다.
 
 &#x20;
 
-**Warning for future forecasting statements**
+#### 책임 배제
 
-(a) Certain expressions in this Whitepaper contain predictable statements about the future, future events, prospects, etc. of the project. These are not historical fact-based statements and are identified by similar expressions to words such as 'scheduled', 'estimated', 'believed', 'predicted', and 'expected'. In addition to this Whitepaper, presentations, interviews, videos, and other publications may include these future forecast statements. The forward-looking statements contained in this Whitepaper include, but are not limited to, future results, performance, and achievements of us and our affiliates.
+(a) 토큰과 본사 및 관계사들이 제공하는 관련 서비스는 ‘있는 그대로,’ ‘가능한 대로’ 제공됩니다. 본사 및 관계사들은 토큰 및 관련 서비스의 접근성, 품질, 적합성, 정확성, 적정성, 완전성 등에 대해 명시적/묵시적 보장 또는 묘사를 하지 않으며, 이와 관련하여 오류, 지연, 누락, 또는 이에 의존하여 취해진 행동에 대해 그 어떤 책임도 지지 않음을 명시합니다.
 
-(b) Future forecasting statements contain a variety of risks and uncertainties. These statements do not guarantee future performance and should not be overly dependent. When risks and uncertainties materialize into reality, the actual performance and development of us and our affiliates may differ from the expectations set by the future forecast statements. We and our affiliates are under no obligation to provide updates on future forecast statements. You are solely responsible for the non-realization of the forward-looking statements if you act on the basis of future forecast statements contained in this Whitepaper, our and our affiliates' homepages and other materials.
+(b) 본사 및 관계사는 본 백서에 기재된 정보를 포함하여 그 어떤 형태로든 진위, 정확성, 완전성을 그 어떤 주체나 개인에게 묘사, 보장, 약속하거나 이를 주장하지 않습니다.
 
-(c) As of the date this Whitepaper was created, the MINTWAY Platform is not complete or fully operational. Although an explanation has been made on the premise that the MINTWAY Platform will be complete and fully operational in the future, it should not be interpreted as a guarantee or commitment to its completion and full operations.
-
-&#x20;
-
-**Potential Risk**
-
-(a) Before deciding to purchase and participate in the Token, we recommend that you read the following carefully and fully analyze and understand the factors and risks involved. Risks include, but are not limited to:
-
-(i) Risk of storage-related buyers' negligence, such as restriction of access to Token due to loss of identification and loss of essential personal keys related to digital wallets stored Token.
-
-(ii) Risk of changes in value after the publication of Token due to global market and economic conditions. We may not be able to fund the development of the Minti ecosystem or maintain the Minti ecosystem in its intended direction due to this uncertainty in Token value.
-
-(iii) Risks associated with changes such as changes in the political, social, and economic environment, changes in the stock or cryptocurrency market environment, changes in the regulatory environment of the countries in which we and our affiliates operate, and changes in their ability to survive or compete in such environment. Existing/new regulations on blockchain technology that are disadvantageous to Token can be applied in certain jurisdictions, which can lead to significant changes in Minti ecosystem and projects, such as Token abolition/loss.
-
-(iv) Risks related to changes in the future capital needs of us and our affiliates, and changes in the availability of capital and financing to meet them. Lack of funding can affect the development of the MINTWAY Platform and the use and potential value of the Token.
-
-(v) Our platform activities may be suspended, disbanded, or launch plans may be suspended for various reasons, such as adverse changes in Token value, business relationship failure, or competitor's intellectual property rights claims during development/operation.\
-And this may negatively affect the Minti ecosystem, Token, and the potential use of Token.
-
-(vi) Risks related to the lack of interest by companies, individuals, and other organizations in the MINTWAY Platform and services and the limited public interest in the creation and development of distributed applications. This lack of interest may limit funding or affect the development of the MINTWAY Platform and the utilization and potential value of Token.
-
-(vii) Risk of applying significant changes to key features and specifications of the Token or MINTWAY Platform prior to the launch or implementation of the MINTWAY porject and the Minti ecosystem. The MINTWAY intends that the capabilities of Token and MINTWAY will be consistent with the contents of the Whitepaper, but these changes are nonetheless applicable.
-
-(viii) Risks of competition between Token and other platforms that could potentially adversely affect the MINTWAY Platform (e.g., when  do not achieve commercial success or have a bleak outlook by competitive projects).
-
-(ix) Risk of interfering with MINTWAY Platform infrastructure and Token utilization by intentionally or unintentionally planting harmful or malicious codes on MINTWAY Platform by third parties or other individuals. The blockchain used in the platform is also vulnerable to such attacks, so it poses a risk to the operation of the platform and related services.
-
-(x) The occurrence of catastrophic events such as natural disasters by force majeure may affect our and our affiliates' business operations and other factors beyond our control. Mining attacks, attacks by hackers or other individuals may result in theft or loss of Token sales revenue, theft or loss of Token, and impairment of Minti ecosystem development capabilities.
-
-(xi) Token and other cryptocurrencies are new, unproven technologies and are continuously evolving. The full functionality of Token is not yet complete and there is no guarantee of completion. As technology advances, advances in encryption technologies and methods, changes in consensus protocols and algorithms, and so on can pose risks to Token, MINTWAY porjects, the Minti ecosystem, and the use of Token.
-
-(xii) Token grants no decision rights to any other entity regarding the MINTWAY porject, the Minti ecosystem, us, etc. All decisions, including discontinuation of products, services, Minti ecosystem, etc., additional creation, sale and liquidation, etc. of tokens utilized in the Minti ecosystem, are made in our sole discretion.
-
-(xiii) Token's tax and accounting practices are uncertain and may vary from jurisdiction to jurisdiction. Purchases of Token may negatively affect tax processing and are encouraged to seek independent tax advice. In addition to the risks stated above, there are other risks that we and our affiliates may not anticipate. Or there can also be risks of unexpected combinations and variations.
-
-(b) Our and our affiliates' business, financial position, operational outcomes, and prospects may be substantially and negatively affected if the risks and uncertainties above are developed in practice. In such cases, you may lose some or all of your Token value.
+(c) 본사 및 관계사는 귀하가 본 백서의 전체 또는 일부를 수용하거나 이에 의존함으로써 이와 관련 발생하는 그 어떤 간접적, 특수적, 부수적, 결과적 손실(투자수익/수입/이익의 손실, 활용 및 데이터의 손실 등을 포함하지만 이에 국한되지 않음)에 대해 계약상 또는 불법행위상 법적 채임을 지지 않으며 이는 관련 법률 규제가 허용하는 최대 한도 내에서 적용됩니다
 
 &#x20;
 
-**Disclaimer for additional information and updates**
+#### 미래 예측 진술에 대한 경고문
 
-With respect to Token, we, our affiliates, and related businesses and operations, no one has the right to provide information/explanation other than those contained in this white paper, and even if such information/explanation is provided, our or our affiliate’s authority should not be construed as granted or representative of them.
+(a) 본 백서에 명시된 특정 표현들은 프로젝트의 미래, 미래 사건, 전망 등에 대한 예측성 진술을 담고 있습니다. 이러한 내용은 역사적 사실에 기반한 진술이 아니며 ‘예정,’ ‘추정,’ ‘믿음,’ ‘기대,’ ‘전망,’ ‘예상’ 등의 단어와 유사한 표현들로 식별됩니다. 본 백서 외 발표자료, 인터뷰, 동영상 등 기타 공개자료에도 이러한 미래 예측 진술이 포함될 수 있습니다. 본 백서에 포함된 미래 예측 진술은 본사 및 관계사의 향후 결과, 실적, 업적 등을 포함하지만 이에 국한되지 않습니다.
 
-&#x20;
+(b) 미래 예측 진술은 다양한 리스크 및 불확실성을 포함하고 있습니다. 이러한 진술은 미래 성과를 보장하지 않으며 따라서 지나치게 의존해서는 안됩니다. 리스크 및 불확실성이 현실로 구체화되는 경우 본사 및 관계사의 실제 성과와 발전은 미래 예측 진술에 의해 설정된 기대와 다를 수 있습니다. 향후 이러한 상황에 변화가 있어도 본사 및 관계사는 미래 예측 진술에 대한 업데이트를 제공할 의무가 없습니다. 본 백서, 본사 및 관계사의 홈페이지와 기타 자료 등에 포함된 미래 예측 진술을 바탕으로 행동을 하는 경우 미래 예측 진술의 내용이 실현되지 않는 것에 대한 책임은 오로지 귀하에게 있습니다.
 
-**Participation restrictions**
-
-If the identity information provided by the person who intends to participate in the token transaction related to the white paper is insufficient, inaccurate, or otherwise misleading, or if it is presumed to be a restricted participant, the token purchase request may be rejected at any time. In addition, you must not participate in token transactions with funds from crimes such as drug transactions, or participate in token transactions for money laundering or terrorist financing. If a restricted participant purchases tokens or for illegal and unauthorized funds and purposes, transactions may be prohibited and restricted at any time, and such token purchases may be canceled or void.
-
-Also, citizens of countries that prohibit or restrict cryptocurrency trading, such as Singapore, cannot participate in the purchase of tokens and must not participate in any way.
+(c) 본 백서가 작성된 날짜를 기준으로 본사의 프로토콜 플랫폼은 완성되었거나 완전히 운영 중인 상태가 아닙니다. 향후 본사의 프로토콜 플랫폼이 완성되고 완전히 운영될 것이라는 전제 하에 설명이 작성되었지만, 이는 플랫폼의 완성 및 완전한 운영에 대한 보장 또는 약속으로 해석되어서는 안됩니다.
 
 &#x20;
 
-No advice
+#### 잠재적 리스크
 
-No information in this white paper shall be regarded as business, legal, financial or tax advice for Token, MINTWAY Platform, us or our affiliates. For Token, we and our affiliates, and related businesses and operations, we recommend that you seek advice from other experts such as legal, finance, and taxation. The financial risk of purchasing Token may apply indefinitely.
+(a) 토큰 구매 및 참여를 결정하기 전 아래 내용을 주의 깊게 읽고 관련 요소와 리스크를 충분히 분석 및 이해할 것을 권장합니다. 리스크는 다음을 포함하지만 이에 국한되지 않습니다.
+
+(i) 식별 정보 분실로 인한 토큰 접근 제한, 토큰을 보관한 디지털 월렛 관련 필수 개인 키 분실 등 보관 관련 구매자 과실 리스크 (ii) 글로벌 시장 및 경제 상황으로 인한  토큰 발행 후 가치 변동 리스크. 본사는 이러한 토큰 가치의 불확실성으로 인해 본사 프로토콜 생태계 개발에 필요한 자금을 지원하지 못하거나 의도한 방향으로 본사 프로토콜 생태계를 유지하지 못할 수 있습니다. (iii) 정치, 사회, 경제 환경의 변화, 주식 또는 암호화폐 시장 환경의 변화, 본사 및 관계사가 사업을 운영하는 국가의 규제 환경의 변화, 그리고 이러한 환경에서 본사 및 관계사가 생존 또는 경쟁할 수 있는 능력의 변화 관련 리스크. 특정 관할권에서 토큰에 불리한 블록체인 기술 관련 기존/신규 규제를 적용할 수 있으며 이에 따라 본사 토큰 폐지/손실 등 본사의 프로토콜 생태계와 프로젝트에 상당한 변화가 발생할 수 있습니다. (iv) 본사 및 관계사의 미래 자본 필요성의 변화, 이를 충족하기 위한 자본 및 자금 조달 가능성의 변화 관련 리스크. 자금 부족은 본사의 프로토콜 플랫폼의 개발과 토큰의 사용 및 잠재적 가치에 영향을 끼칠 수 있습니다. (v)  토큰 가치의 불리한 변동, 사업관계 실패, 개발/운영 중 경쟁사의 지적재산권 주장 등 다양한 사유로 본사의 프로토콜 활동 중단, 해체 또는 론칭 계획 중단에 이를 수 있으며 이로 인해 본사의 프로토콜 생태계, 토큰, 그리고 토큰의 잠재적 활용에 부정적인 영향을 끼칠 수 있습니다. (vi) 본사의 프로토콜 플랫폼 및 서비스에 대한 기업, 개인 등 기타 조직의 관심 부재, 배포된 응용프로그램의 생성 및 개발에 대한 대중들의 제한적 관심 관련 리스크. 이러한 관심의 부재로 자금 조달의 제한을 받거나 프로토콜 플랫폼 개발과 토큰의 활용 및 잠재적 가치에 영향을 끼칠 수 있습니다.
+
+(vii) 프로토콜 프로젝트 및 프로토콜 생태계를 론칭하거나 구현하기 전 토큰 또는 본사의 프로토콜 플랫폼의 주요 기능 및 규격에 큰 변화를 적용하는 리스크.
+
+본사는 토큰 및 본사 프로토콜의 기능이 백서의 내용과 일치할 것을 의도하고 있지만 그럼에도 불구하고 이러한 변경사항을 적용할 수 있습니다.
+
+(viii) 토큰과 본사의 프로토콜 플랫폼에 잠재적으로 악영향을 미칠 수 있는 다른 플랫폼과의 경쟁 리스크. (예: 경쟁 프로젝트로 인해 상업적 성공을 거두지 못하거나 전망이 암울한 경우) (ix) 제3자나 다른 개인이 의도적으로 또는 의도하지 않게 본사의 프로토콜 플랫폼에 유해 및 악성코드를 심어 프로토콜 플랫폼 인프라와 토큰 활용에 간섭하는 리스크. 플랫폼에 사용되는 블록체인 또한 이러한 공격에 취약하기 때문에 플랫폼, 그리고 관련 서비스 운영에 리스크로 작용합니다. (x) 불가항력 천재지변 등 재앙적 사건의 발생으로 본사 및 관계사의 사업 운영과 기타 통제 불가능한 다른 요인들이 영향을 받을 수 있습니다. 채굴 공격, 해커 또는 기타 개인들의 공격 등의 사건으로 토큰 판매 수익금의 도난 및 손실, 토큰의 도난 및 손실, 본사의 프로토콜 생태계 개발 역량 저해 등이 발생할 수 있습니다. (xi) 토큰과 기타 암호화폐들은 아직 검증되지 않은 새로운 기술이며 지속적으로 발전하고 있습니다. 토큰의 완전한 기능은 아직 완성되지 않았으며 완성에 대한 보장은 없습니다. 기술이 발전함에 따라 암호화 기술 및 방식의 발전, 합의 프로토콜 및 알고리즘의 변화 등이 토큰, 토큰의 판매, 본사의 프로토콜 프로젝트, 프로토콜 생태계, 그리고 토큰의 활용에 리스크로 작용할 수 있습니다. (xii) 토큰은 프로토콜 프로젝트, 프로토콜 생태계, 본사 등과 관련하여 그 어떤 결정권도 다른 주체에게 부여하지 않습니다. 제품, 서비스, 프로토콜, 프로토콜 생태계 등의 중단, 프로토콜 생태계에서 활용되는 토큰의 추가 생성 및 판매, 매각 및 청산 등을 포함한 모든 의사결정은 본사의 자유 재량에 따라 이뤄집니다. (xiii) 토큰의 세금 및 회계 처리 방식은 불확실하며 관할권마다 다를 수 있습니다. 토큰 구매로 세금 처리에 부정적인 영향을 받을 수 있으며 이와 관련 독립적인 세무 자문을 구할 것을 권장합니다. 위 명시된 리스크 외에도 본사 및 관계사가 예측하지 못하는 다른 리스크도 존재합니다. 또한 예기치 못한 조합 및 변형의 리스크도 등장할 수 있습니다.
+
+(b) 위 리스크 및 불확실성이 실제 상황으로 전개되는 경우 본사 및 관계사의 사업, 재정상태, 운영 결과, 전망 등이 실질적이고 부정적인 영향을 받을 수 있습니다. 이러한 경우 귀하는 토큰 가치의 일부 또는 전부를 상실할 수 있습니다.
 
 &#x20;
+
+#### 추가정보 및 업데이트 없음
+
+토큰, 본사 및 관계사, 그리고 관련 사업 및 운영에 대해서는 본 백서에 포함된 내용 외 그 누구도 정보/설명을 제공할 권한이 없으며, 이러한 정보/설명이 제공된다 하더라도 본사 또는 그 관계사의 권한을 부여 받았거나 이들을 대표하는 것으로 여겨서는 안됩니다.
+
+&#x20;
+
+#### 참여 제한
+
+백서와 관련된 토큰 거래에 참여하려는 자가 제공한 신원정보 등이 불충분하거나 부정확하거나 그 밖의 오해의 소지가 있는 경우 또는 참여제한자로 추정되는 경우에는, 언제든지 토큰 구매요청을 거부할 수 있습니다.  또한 마약거래 등 범죄 수익자금으로 토큰 거래에 참여하거나 자금세탁,  테러자금 모집을 위하여 토큰 거래에 참여하여서는 아니됩니다.  참여제한자가 토큰을 구매한 경우 또는 불법적이고 승인되지 않은 자금과 목적으로 구매한 경우,  언제든지 거래가 금지되고 제한될 수 있으며 그러한 토큰 구매는 취소 또는 무효가 될 수 있습니다.
+
+&#x20;
+
+#### 자문 없음
+
+본 백서의 그 어떤 정보도 토큰, 본사, 또는 그 관계사에 대한 사업, 법률, 재무, 세무 조언으로 간주되지 않습니다. 토큰, 본사 및 관계사, 그리고 관련 사업 및 운영에 대해서는 법률, 재무, 세무 등 기타 전문가의 자문을 구할 것을 권장합니다. 토큰 구입에 대한 재정적 리스크는 무기한 적용될 수 있습니다
 
 &#x20;
