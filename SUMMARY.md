@@ -4,7 +4,7 @@
 
 ## The Company
 
-* [Ⅰ. Abstract](the-company/.-abstract.md)
+* [Ⅰ. 서문](the-company/.-abstract.md)
 * [Ⅱ. Business Background](the-company/.-business-background/README.md)
   * [1. Rapid growth of the global NFT market](the-company/.-business-background/1.-rapid-growth-of-the-global-nft-market.md)
   * [2. NFT Market Leader, OpenSea](the-company/.-business-background/2.-nft-market-leader-opensea.md)
