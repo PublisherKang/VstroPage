@@ -41,4 +41,5 @@
 
 ***
 
+* [Korean White Paper](https://kr-docs.mintway.net/)
 * [MintWay.io](https://mintway.io)
