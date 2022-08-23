@@ -38,3 +38,7 @@
   * [3. 토큰 공급 계획](the-company/.-token-plan/3.-token-supply.md)
   * [4. 로드맵](the-company/.-token-plan/4.-roadmap.md)
 * [법적 고지](the-company/legal-notice.md)
+
+***
+
+* [MintWay.io](https://mintway.io)
