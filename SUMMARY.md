@@ -1,7 +1,6 @@
 # Table of contents
 
 * [MINTWAY Portal White paper](README.md)
-  * [MintWay](https://mintway.io)
 
 ## The Company
 
@@ -39,3 +38,7 @@
   * [3. TOKEN SUPPLY](the-company/.-token-plan/3.-token-supply.md)
   * [4. ROADMAP](the-company/.-token-plan/4.-roadmap.md)
 * [Legal Notice](the-company/legal-notice.md)
+
+***
+
+* [MintWay.io](https://mintway.io)
