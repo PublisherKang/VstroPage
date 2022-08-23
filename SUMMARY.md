@@ -6,7 +6,7 @@
 
 * [Ⅰ. 서문](the-company/.-abstract.md)
 * [Ⅱ. 사업배경](the-company/.-business-background/README.md)
-  * [1. Rapid growth of the global NFT market](the-company/.-business-background/1.-rapid-growth-of-the-global-nft-market.md)
+  * [1. 글로벌 NFT 시장의 급성장](the-company/.-business-background/1.-rapid-growth-of-the-global-nft-market.md)
   * [2. NFT Market Leader, OpenSea](the-company/.-business-background/2.-nft-market-leader-opensea.md)
   * [3. Problems in the NFT market](the-company/.-business-background/3.-problems-in-the-nft-market/README.md)
     * [A. Problems of NFT Market](the-company/.-business-background/3.-problems-in-the-nft-market/a.-problems-of-nft-market.md)
