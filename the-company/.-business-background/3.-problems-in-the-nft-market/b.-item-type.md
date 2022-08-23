@@ -1,7 +1,7 @@
-# B. ITEM Type
+# B. ITEM 유형
 
-NFT is not a finished market, but a starting stage. The structure of the business model is very simple, and the focus is on a distributed ledger that proves ownership of digital assets rather than special technologies, and thus images that can be easily implemented digitally is occupies most of item.
+NFT는 완성된 시장이 아닌 이제 시작하는 단계로 비즈니스 모델의 구조가 매우 단순하며, 특별한 기술보다는 디지털 자산의 소유권을 증명하는 분산원장에 초점이 맞춰져 있고, 이에 따라 디지털로 쉽게 구현할 수 있는 이미지가 그 대부분을 차지하고 있다.
 
-Currently, through NFT, various business projects such as collectible games, sports stars' cards, and images that give artistic value have been created and sold at high prices, but so far the focus is on works and game items rather than digital assets.
+현재 NFT를 통해 컬렉터블 게임, 스포츠 스타들의 카드, 예술적 가치를 부여하는 이미지 등 다양한 비즈니스 프로젝트가 생겨나고 고가로 판매되고 있지만 아직까지는 디지털 자산이라는 성격보다는 작품과 게임 아이템 등에 초점이 맞춰져 있다.
 
-Therefore, the current NFT business model does not deviate significantly from the transaction concept using images such as games, collections, sports, metaverse, and art, 3D models, and videos, and does not present the value of actual digital assets and it hasn't presented a completely different new type of item yet.
+그렇기 때문에 현재의 NFT 비즈니스 모델은 게임, 수집, 스포츠, 메타버스, 예술 등의 이미지, 3D 모델, 영상 등을 활용한 거래개념에서 크게 벗어나지 못하고 있으며, 실질적인 디지털 자산이라는 가치를 제시하지 못하고 있고, 아직까지는 전혀 다른 새로운 유형의 아이템이 제시되지 못하고 있는 상태다.

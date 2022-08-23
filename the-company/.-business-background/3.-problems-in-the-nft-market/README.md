@@ -1,3 +1,3 @@
-# 3. Problems in the NFT market
+# 3. NFT 시장의 문제점
 
-![Figure 4. The problems in the NFT Market](../../../.gitbook/assets/image4.png)
+<figure><img src="../../../.gitbook/assets/img1.jpg" alt=""><figcaption><p>Figure 4. NFT 시장의 문제점</p></figcaption></figure>

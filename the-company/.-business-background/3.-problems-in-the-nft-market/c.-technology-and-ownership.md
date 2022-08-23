@@ -1,9 +1,9 @@
-# C. Technology and Ownership
+# C. 기술과 소유권
 
-The current NFT technology is to upload one's own work (images, etc.) to the server, then minting it to produce NFT, record the link value and proof of ownership in the metadata in the token, and prevent tampering and prove ownership through the distributed ledger of the blockchain network.
+현재 NFT의 기술은 자신의 작품(이미지 등)을 서버에 올린 후 이를 MinTing하여 NFT로제작하고 토큰 내에 있는 메타데이터에 작품의 링크값과 소유권 증명을 기록하여 블록체인 네트워크에 분산원장을 통해 위∙변조 방지와 소유증명을 하는 것이다.
 
-However, in the NFT market, even simple technologies such as watermark and download prevention are not applied to protect works, and users who have purchased NFT can't know the ID and PW information that can be downloaded and deleted by the original creator on the cloud server. In the end, there is only a distributed ledger that only the ownership has been transferred to the buyer, and the actual operation and management of the work can be done only by the original creator.
+하지만 NFT마켓에서는 작품의 보호를 위해 워터마크 및 다운로드 방지 등의 간단한 기술도 적용하지 않고 있으며, NFT를 구매한 유저는 원작자가 클라우드나 서버에 올린 원본을 내려 받고 삭제할 수 있는 ID와 PW정보를 알 수가 없다. 결국 소유권만 구매자에게 넘어왔다는 분산원장만 있을 뿐 실질적인 작품의 운영관리는 원작자만이 할 수 있는 시스템이다.
 
-For this reason, in order to implement a true NFT, the distributed ledger that records the original work and proof of ownership in the NFT must be recorded in the metadata together. However, if the original is large, it is difficult to store the original and the ownership record together because it is difficult for all nodes participating in the network for the current internet speed and decentralization of the blockchain.
+이렇기 때문에 진정한 NFT를 구현하기 위해서는 NFT내에 작품원본과 소유권 증명을 기록하는 분산원장이 함께 메타데이터에 기록되야 한다. 하지만 원본이 대용량일 경우 현재 인터넷 속도와 블록체인의 분산을 위해 네트워크에 참여하는 모든 노드가 대용량 저장이 어렵기 때문에 원본과 함께 저장한다는 것은 지금의 기술로 부족하다.
 
-In addition, as each country has different laws such as patents and licenses for proof of ownership made by NFT, the possibility of legal disputes is very high.
+또한 NFT로 제작된 소유권 증명에 대해 각 국가별로 특허, 라이선스 등의 법률이 각기 다르기 때문에 법적분쟁의 여지가 매우 크다고 볼 수 있다.

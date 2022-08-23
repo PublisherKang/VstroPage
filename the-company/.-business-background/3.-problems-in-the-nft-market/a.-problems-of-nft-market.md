@@ -1,13 +1,13 @@
-# A. Problems of NFT Market
+# A. NFT마켓의 문제
 
-The essential problem of the NFT market is that it can be created only in the blockchain network supported by the market and that it is impossible to move between blockchain networks.
+NFT마켓의 본질적인 문제는 마켓에서 지원하는 블록체인 네트워크에서만 생성이 가능하다는 것과 블록체인 네트워크간 이동이 불가능하다는데 있다.
 
-For example, if an NFT is made with ERC-721, it can only be traded in the Ethereum-based market and cannot be traded in other blockchain network-based markets. This is because NFTs made with other block chains cannot be implemented in their own market because of different block chain technologies. Of course, it is possible to convert the value of NFTs and sell them by linking them with an API through a contract between blockchain networks, but essential movement is impossible.
+예를 들어 ERC-721로 NFT를 제작하였다면 이더리움 기반의 마켓에서만 거래가 가능하고 타 블록체인 네트워크 기반의 마켓에서는 거래를 할 수 없다. 왜냐하면 상호간 블록체인 기술이 다르기 때문에 타 블록체인으로 제작된 NFT를 자신의 마켓에서 구현할 수 없기 때문이다. 물론 블록체인 네트워크 간 계약을 통해 API로 연동하여 NFT 가치를 환산하여 판매할 수는 있지만 본질적인 이동은 불가능하다.
 
-For this reason, in order to search for or find NFTs, it is necessary to check all NFT markets. The NFT you create is registered in the market wallet, not your wallet, and you must pay a fee when moving it to your own wallet or the same blockchain network.
+이런 이유로 NFT를 검색하거나 찾기 위해서는 모든 NFT마켓을 다 확인해야 하며, NFT를 판매하고자 할 때는 특정 마켓에서만 판매가 가능하다. 자신이 생성한 NFT는 자신의 지갑이 아닌 해당 마켓 지갑에 등록이 되고, 이를 자신의 지갑 또는 동일 블록체인 네트워크로 이동시에는 수수료도 지불해야 한다.
 
-In addition, the market business model consists only of simple sales, auctions, and purchases, so there is no case where users can earn profits by using their own digital assets, and it has only a structure in which users can earn profits only by selling.
+또한 마켓 비즈니스 모델은 단순한 판매, 경매, 구매로만 이루어져 있어서 자신의 디지털자산을 활용하여 수익을 얻을 수 있는 사례는 전혀 없으며, 오로지 판매해야 수익을 얻을 수 있는 구조로만 이루어져 있다.
 
-When looking at these contents, since all NFT markets are centered on each blockchain network, there is a problem that NFTs created in each market must be viewed and traded only in that market. In other words, the buyer has to take a cumbersome and inefficient action to visit all the NFT markets to purchase the NFT they want to purchase.
+이러한 내용을 살펴볼 때 모든 NFT마켓은 각각의 블록체인 네트워크 중심으로 이루어져 있기 때문에 각자 마켓에서 생성된 NFT는 그 마켓에서만 보고 거래해야 하는 문제가 발생한다. 즉, 구매자 입장에서는 자신이 구매하고자 하는 NFT를 구매하기 위해서 모든 NFT마켓을 전부 찾아다녀야 하는 번거롭고 비효율적인 행동을 취해야 한다.
 
-Compared to general shopping malls and open markets, which show and sell numerous products, the current NFT markets have too many inconveniences in terms of services for customer convenience.
+일반 쇼핑몰이나 오픈마켓도 수많은 상품을 통합하여 보여주고 판매하는데 비해 현재 NFT마켓은 고객의 편리를 위한 서비스 측면에서 불편함이 너무도 많은 구조로 되어 있다.

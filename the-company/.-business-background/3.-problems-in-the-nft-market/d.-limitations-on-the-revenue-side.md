@@ -1,17 +1,14 @@
-# D. Limitations on the revenue side
+# D. 수익적 한계
 
-Currently, various NFT business projects are in progress.
+현재 NFT 비즈니스 프로젝트는 다양하게 진행되고 있다.
 
-\
-Analyzing the NonFungible.com site, one CryptoPunks image was sold for about $390,000, and as of July 20, 2021, the 7-day transaction amount of the top 10 projects alone was about $35 million, and the total accumulated transaction amount was about $1 billion or more.
+NonFungible.com 사이트를 분석하면 CryptoPunks의 이미지 1개가 약 $39만으로 판매가 되었으며, 2021. 7. 20 기준으로 상위 10개의 프로젝트의 7일간 거래금액만 약 $3,500만이고, 전체 누적거래금액은 약 $10억 이상이다.
 
-![Figure 5. Analysis of NFT Top 10 Project Sales
+![Figure 5. NFT 상위 10개 프로젝트 판매액 분석
 Source: https://nonfungible.com/market/history / Numerical analysis as of July 20, 2021 (Modify Image; VSTRO)](../../../.gitbook/assets/image5.jpg)
 
-If the content of the project is excellent, it can be developed according to the business direction of the NFT by being activated through the participation of various users, but Most NFTs have a very low value because they are simply sold and bought with simple images.
+이처럼 프로젝트의 내용이 우수한 경우, 다양한 유저의 참여를 통해 활성화됨으로써 NFT의 비즈니스 방향에 맞게 발전할 수 있으나 대다수의 NFT는 단순한 이미지로 단순히 팔고 사는 형식으로 이루어져 있기 때문에 가치는 매우 낮게 책정되어 있다. NFT의 가치기준은 결국 구매하는 사람이 정하게 되며, 창작자는 자신이 만든 NFT의 가치를 높게 생각할 경우 판매하지 않고 보유할 수밖에 없는 것이 현실이다.
 
-The value standard of NFT is ultimately decided by the person who buys it, and the reality is that if a creator thinks highly of the value of the NFT he made, he has no choice but to keep it rather than sell it.
+또한 NFT의 특성상, 하나의 NFT를 한 명이 소유하기 때문에 사용하는 사람도 한명일 수밖에 없다. 이는 미술작품이나 게임아이템 등에는 적합하겠지만, 만일 유명한 가수가 자신의 노래를 NFT로 판매한다면 그 노래는 NFT 소유자만 들을 수 있다는 것을 알고서도 판매를 할 것인가로 볼 때는 매우 난해한 상황이 생긴다. 가수는 자신의 노래를 펜들과 많은 사람이 듣기를 원하지 어느 한 사람만이 소유하기를 원하지 않기 때문이다. 그렇다고 동일한 NFT를 수 만개 만들어 판매한다면 이는 일반 음반을 판매하는 것이 훨씬 편리할 것이다.
 
-In addition, due to the nature of NFTs, since one NFT is owned by one person, there is only one person who uses it. This would be suitable for works of art or game items, but if a famous singer sells his song as NFT, it is very difficult to see whether the song will be sold even though it is known that only the NFT owner can hear it. Because singers want their songs to be heard by pens and by many, not owned by one person. However, if you make and sell tens of thousands of identical NFTs, it would be much more convenient to sell regular albums.
-
-The business model structure of the NFT market has limitations in that even for digital assets, only the sale of ownership is possible and the sale of usage rights is impossible. Eventually, there will come a time when these problems will have to be addressed..
+NFT 시장의 비즈니스 모델 구조는 디지털 자산이라 할지라도 소유권의 판매만 가능하고 사용권의 판매는 불가능하다는 한계점이 존재하며, 결국 이러한 문제를 해결해야 하는 상황이 올 것이다.
