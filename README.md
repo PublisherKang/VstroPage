@@ -1,6 +1,10 @@
+---
+description: ver 1.0
+---
+
 # MINTWAY Portal White paper
 
-## **What is MINTWAY Portal?**&#x20;
+## **What is MINTWAY Portal?**
 
 It is the world's first NFT portal site that connects/provides information and services of various NFT-related business Dapps with the global NFT market.
 
