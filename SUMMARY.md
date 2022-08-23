@@ -41,5 +41,5 @@
 
 ***
 
-* [English White Pager](https://https/en-docs.mintway.io/)
+* [English White Pager](https://en-docs.mintway.io/)
 * [MintWay.io](https://mintway.io)
