@@ -30,3 +30,4 @@
 
 * [3. BaaS (Blockchain as a Service)](blockchain-as-a-service/3.-baas-blockchain-as-a-service/README.md)
   * [3.1 “Core Technology”](blockchain-as-a-service/3.-baas-blockchain-as-a-service/3.1-core-technology.md)
+  * [3.2 The Benefit of OSP using  API of BaaSid](blockchain-as-a-service/3.-baas-blockchain-as-a-service/3.2-the-benefit-of-osp-using-api-of-baasid.md)
