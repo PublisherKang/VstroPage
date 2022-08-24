@@ -58,3 +58,8 @@
   * [6.1. TWCC (Taiwan government agency DID development and supply)](use-case-of-baasid/6.-use-case-of-baasid/6.1.-twcc-taiwan-government-agency-did-development-and-supply.md)
   * [6.2. Hitachi Sunway (2FA, MFA Authenticator based on Blockchain & Decentralized Storage)](use-case-of-baasid/6.-use-case-of-baasid/6.2.-hitachi-sunway-2fa-mfa-authenticator-based-on-blockchain-and-decentralized-storage.md)
   * [6.3. API interworking compatible with major clouds and fast and easy decentralized storage construct](use-case-of-baasid/6.-use-case-of-baasid/6.3.-api-interworking-compatible-with-major-clouds-and-fast-and-easy-decentralized-storage-construct.md)
+
+## “Service(commercialization) Platform based on BaaSid”
+
+* [7. Service of "BaaSid"](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/README.md)
+  * [7.1. My Data Exchange Service](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.1.-my-data-exchange-service.md)
