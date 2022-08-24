@@ -81,3 +81,4 @@
   * [8.5 BaaSid (BAAS) Smart Contract](about-baasid/8.-baasid-organization/8.5-baasid-baas-smart-contract.md)
   * [8.6 Exchange partner](about-baasid/8.-baasid-organization/8.6-exchange-partner.md)
   * [8.7 BAAS Allocation](about-baasid/8.-baasid-organization/8.7-baas-allocation.md)
+  * [8.8 Roadmap](about-baasid/8.-baasid-organization/8.8-roadmap.md)
