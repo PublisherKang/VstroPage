@@ -4,14 +4,24 @@
 
 ## “100% Decentralization”
 
-* [1. Background of "BaaSid"](100-decentralization/1.-background-of-baasid/README.md)
-  * [1.1 What is "BaaSid"?](100-decentralization/1.-background-of-baasid/1.1-what-is-baasid.md)
-  * [1.2 Decentralization?](100-decentralization/1.-background-of-baasid/1.2-decentralization.md)
-  * [1.3 Decentralization!](100-decentralization/1.-background-of-baasid/1.3-decentralization.md)
-  * [1.4 Why "BaaSid"?](100-decentralization/1.-background-of-baasid/1.4-why-baasid.md)
-  * [1.5 Split & Distribution Engine](100-decentralization/1.-background-of-baasid/1.5-split-and-distribution-engine.md)
-  * [1.6 Split ID](100-decentralization/1.-background-of-baasid/1.6-split-id.md)
-  * [1.7  Combination Engine Descrambling and Verification Stage](100-decentralization/1.-background-of-baasid/1.7-combination-engine-descrambling-and-verification-stage.md)
-  * [1.8 One Pass: an all-in-in sophisticated verification](100-decentralization/1.-background-of-baasid/1.8-one-pass-an-all-in-in-sophisticated-verification.md)
-  * [1.9  BaaS Certification API Service](100-decentralization/1.-background-of-baasid/1.9-baas-certification-api-service.md)
+* [1. Background of "BaaSid"](introduce/1.-background-of-baasid/README.md)
+  * [1.1 What is "BaaSid"?](introduce/1.-background-of-baasid/1.1-what-is-baasid.md)
+  * [1.2 Decentralization?](introduce/1.-background-of-baasid/1.2-decentralization.md)
+  * [1.3 Decentralization!](introduce/1.-background-of-baasid/1.3-decentralization.md)
+  * [1.4 Why "BaaSid"?](introduce/1.-background-of-baasid/1.4-why-baasid.md)
+  * [1.5 Split & Distribution Engine](introduce/1.-background-of-baasid/1.5-split-and-distribution-engine.md)
+  * [1.6 Split ID](introduce/1.-background-of-baasid/1.6-split-id.md)
+  * [1.7  Combination Engine Descrambling and Verification Stage](introduce/1.-background-of-baasid/1.7-combination-engine-descrambling-and-verification-stage.md)
+  * [1.8 One Pass: an all-in-in sophisticated verification](introduce/1.-background-of-baasid/1.8-one-pass-an-all-in-in-sophisticated-verification.md)
+  * [1.9  BaaS Certification API Service](introduce/1.-background-of-baasid/1.9-baas-certification-api-service.md)
   * [1.10  "DB Governance” of BaaSid Participants](100-decentralization/1.-background-of-baasid/1.10-db-governance-of-baasid-participants.md)
+
+## “Authorization based on Blockchain”
+
+* [Key point & Technology of Authentication / 2FA & MFA](authorization-based-on-blockchain/key-point-and-technology-of-authentication-2fa-and-mfa.md)
+* [2. Introduction](authorization-based-on-blockchain/2.-introduction/README.md)
+  * [2.1. Limitations of and problems with blockchain](authorization-based-on-blockchain/2.-introduction/2.1.-limitations-of-and-problems-with-blockchain.md)
+  * [2.2. Borrowing the DB of BaaS based participants](authorization-based-on-blockchain/2.-introduction/2.2.-borrowing-the-db-of-baas-based-participants.md)
+  * [2.3. Split & Distribute Data](authorization-based-on-blockchain/2.-introduction/2.3.-split-and-distribute-data.md)
+  * [2.4. Verification that is user-centered based on the Public or Private Network](authorization-based-on-blockchain/2.-introduction/2.4.-verification-that-is-user-centered-based-on-the-public-or-private-network.md)
+  * [2.5  Proof of integrity for Split & Distribute data](authorization-based-on-blockchain/2.-introduction/2.5-proof-of-integrity-for-split-and-distribute-data.md)
