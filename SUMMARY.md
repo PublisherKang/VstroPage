@@ -63,3 +63,10 @@
 
 * [7. Service of "BaaSid"](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/README.md)
   * [7.1. My Data Exchange Service](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.1.-my-data-exchange-service.md)
+  * [7.2. BaaSid B\&P](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/README.md)
+    * [7.2.1. BaaSid B\&P System](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.2.1.-baasid-b-and-p-system.md)
+    * [7.2.2. BaaSid B\&P Structure](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.2.2.-baasid-b-and-p-structure.md)
+    * [7.2.3. BaaSid Bridge](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.2.3.-baasid-bridge.md)
+    * [7.2.4. BaaSid Payment](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.2.4.-baasid-payment.md)
+    * [7.2.5. BaaSid Point System](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.2.5.-baasid-point-system.md)
+    * [7.3. NFT Open Market Place](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.3.-nft-open-market-place.md)
