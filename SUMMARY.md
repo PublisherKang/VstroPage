@@ -82,3 +82,5 @@
   * [8.6 Exchange partner](about-baasid/8.-baasid-organization/8.6-exchange-partner.md)
   * [8.7 BAAS Allocation](about-baasid/8.-baasid-organization/8.7-baas-allocation.md)
   * [8.8 Roadmap](about-baasid/8.-baasid-organization/8.8-roadmap.md)
+  * [8.9 Contact us](about-baasid/8.-baasid-organization/8.9-contact-us.md)
+  * [8.10 Press Release](about-baasid/8.-baasid-organization/8.10-press-release.md)
