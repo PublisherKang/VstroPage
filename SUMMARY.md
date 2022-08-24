@@ -78,3 +78,6 @@
   * [8.2. BaaSid Key members](about-baasid/8.-baasid-organization/8.2.-baasid-key-members.md)
   * [8.3. Advisor](about-baasid/8.-baasid-organization/8.3.-advisor.md)
   * [8.4 Communiti Channels](about-baasid/8.-baasid-organization/8.4-communiti-channels.md)
+  * [8.5 BaaSid (BAAS) Smart Contract](about-baasid/8.-baasid-organization/8.5-baasid-baas-smart-contract.md)
+  * [8.6 Exchange partner](about-baasid/8.-baasid-organization/8.6-exchange-partner.md)
+  * [8.7 BAAS Allocation](about-baasid/8.-baasid-organization/8.7-baas-allocation.md)
