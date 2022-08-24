@@ -77,3 +77,4 @@
   * [8.1. Organization](about-baasid/8.-baasid-organization/8.1.-organization.md)
   * [8.2. BaaSid Key members](about-baasid/8.-baasid-organization/8.2.-baasid-key-members.md)
   * [8.3. Advisor](about-baasid/8.-baasid-organization/8.3.-advisor.md)
+  * [8.4 Communiti Channels](about-baasid/8.-baasid-organization/8.4-communiti-channels.md)
