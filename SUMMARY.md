@@ -31,3 +31,9 @@
 * [3. BaaS (Blockchain as a Service)](blockchain-as-a-service/3.-baas-blockchain-as-a-service/README.md)
   * [3.1 “Core Technology”](blockchain-as-a-service/3.-baas-blockchain-as-a-service/3.1-core-technology.md)
   * [3.2 The Benefit of OSP using  API of BaaSid](blockchain-as-a-service/3.-baas-blockchain-as-a-service/3.2-the-benefit-of-osp-using-api-of-baasid.md)
+
+## “No Original Copy”
+
+* [4. "BaaSid" algorithm](no-original-copy/4.-baasid-algorithm/README.md)
+  * [4.1. Instant Access](no-original-copy/4.-baasid-algorithm/4.1.-instant-access.md)
+  * [4.2. Non Original Copy](no-original-copy/4.-baasid-algorithm/4.2.-non-original-copy.md)
