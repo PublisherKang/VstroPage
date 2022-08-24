@@ -51,3 +51,10 @@
   * [5.3. Detail of Soteria Space](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/5.3.-detail-of-soteria-space.md)
   * [5.4. Detail of Soteria API intergration Module](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/5.4.-detail-of-soteria-api-intergration-module.md)
   * [5.5. Detail of Pistis](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/5.5.-detail-of-pistis.md)
+
+## “Use case of BaaSid”
+
+* [6. Use case of "BaaSid"](use-case-of-baasid/6.-use-case-of-baasid/README.md)
+  * [6.1. TWCC (Taiwan government agency DID development and supply)](use-case-of-baasid/6.-use-case-of-baasid/6.1.-twcc-taiwan-government-agency-did-development-and-supply.md)
+  * [6.2. Hitachi Sunway (2FA, MFA Authenticator based on Blockchain & Decentralized Storage)](use-case-of-baasid/6.-use-case-of-baasid/6.2.-hitachi-sunway-2fa-mfa-authenticator-based-on-blockchain-and-decentralized-storage.md)
+  * [6.3. API interworking compatible with major clouds and fast and easy decentralized storage construct](use-case-of-baasid/6.-use-case-of-baasid/6.3.-api-interworking-compatible-with-major-clouds-and-fast-and-easy-decentralized-storage-construct.md)
