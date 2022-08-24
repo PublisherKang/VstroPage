@@ -69,4 +69,11 @@
     * [7.2.3. BaaSid Bridge](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.2.3.-baasid-bridge.md)
     * [7.2.4. BaaSid Payment](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.2.4.-baasid-payment.md)
     * [7.2.5. BaaSid Point System](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.2.5.-baasid-point-system.md)
-    * [7.3. NFT Open Market Place](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.2.-baasid-b-and-p/7.3.-nft-open-market-place.md)
+  * [7.3. NFT Open Market Place](service-commercialization-platform-based-on-baasid/7.-service-of-baasid/7.3.-nft-open-market-place.md)
+
+## “About BaaSid”
+
+* [8. BaaSid Organization](about-baasid/8.-baasid-organization/README.md)
+  * [8.1. Organization](about-baasid/8.-baasid-organization/8.1.-organization.md)
+  * [8.2. BaaSid Key members](about-baasid/8.-baasid-organization/8.2.-baasid-key-members.md)
+  * [8.3. Advisor](about-baasid/8.-baasid-organization/8.3.-advisor.md)
