@@ -37,3 +37,6 @@
 * [4. "BaaSid" algorithm](no-original-copy/4.-baasid-algorithm/README.md)
   * [4.1. Instant Access](no-original-copy/4.-baasid-algorithm/4.1.-instant-access.md)
   * [4.2. Non Original Copy](no-original-copy/4.-baasid-algorithm/4.2.-non-original-copy.md)
+  * [4.3. Technical configuration of BaaSid](no-original-copy/4.-baasid-algorithm/4.3.-technical-configuration-of-baasid.md)
+  * [4.4  Private Node Configuration](no-original-copy/4.-baasid-algorithm/4.4-private-node-configuration.md)
+  * [4.5 Compare similar projects (Case of Blockchain)](no-original-copy/4.-baasid-algorithm/4.5-compare-similar-projects-case-of-blockchain.md)
