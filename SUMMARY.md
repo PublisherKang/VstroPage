@@ -42,3 +42,12 @@
   * [4.5 Compare similar projects (Case of Blockchain)](no-original-copy/4.-baasid-algorithm/4.5-compare-similar-projects-case-of-blockchain.md)
   * [4.6 Compare similar projects (Case of Non-Blockchain)](no-original-copy/4.-baasid-algorithm/4.6-compare-similar-projects-case-of-non-blockchain.md)
   * [4.7 Compare similar projects (Case of Non-Blockchain)](no-original-copy/4.-baasid-algorithm/4.7-compare-similar-projects-case-of-non-blockchain.md)
+
+## “BaaSid commercial product”
+
+* [5. BaaSid develops various blockchain solutions and cloud](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/README.md)
+  * [5.1. Mission Statement](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/5.1.-mission-statement.md)
+  * [5.2. BaaSid Product and Solutions](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/5.2.-baasid-product-and-solutions.md)
+  * [5.3. Detail of Soteria Space](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/5.3.-detail-of-soteria-space.md)
+  * [5.4. Detail of Soteria API intergration Module](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/5.4.-detail-of-soteria-api-intergration-module.md)
+  * [5.5. Detail of Pistis](baasid-commercial-product/5.-baasid-develops-various-blockchain-solutions-and-cloud/5.5.-detail-of-pistis.md)
