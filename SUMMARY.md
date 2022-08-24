@@ -25,3 +25,8 @@
   * [2.3. Split & Distribute Data](authorization-based-on-blockchain/2.-introduction/2.3.-split-and-distribute-data.md)
   * [2.4. Verification that is user-centered based on the Public or Private Network](authorization-based-on-blockchain/2.-introduction/2.4.-verification-that-is-user-centered-based-on-the-public-or-private-network.md)
   * [2.5  Proof of integrity for Split & Distribute data](authorization-based-on-blockchain/2.-introduction/2.5-proof-of-integrity-for-split-and-distribute-data.md)
+
+## “Blockchain as a Service”
+
+* [3. BaaS (Blockchain as a Service)](blockchain-as-a-service/3.-baas-blockchain-as-a-service/README.md)
+  * [3.1 “Core Technology”](blockchain-as-a-service/3.-baas-blockchain-as-a-service/3.1-core-technology.md)
