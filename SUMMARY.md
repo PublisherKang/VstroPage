@@ -40,3 +40,5 @@
   * [4.3. Technical configuration of BaaSid](no-original-copy/4.-baasid-algorithm/4.3.-technical-configuration-of-baasid.md)
   * [4.4  Private Node Configuration](no-original-copy/4.-baasid-algorithm/4.4-private-node-configuration.md)
   * [4.5 Compare similar projects (Case of Blockchain)](no-original-copy/4.-baasid-algorithm/4.5-compare-similar-projects-case-of-blockchain.md)
+  * [4.6 Compare similar projects (Case of Non-Blockchain)](no-original-copy/4.-baasid-algorithm/4.6-compare-similar-projects-case-of-non-blockchain.md)
+  * [4.7 Compare similar projects (Case of Non-Blockchain)](no-original-copy/4.-baasid-algorithm/4.7-compare-similar-projects-case-of-non-blockchain.md)
