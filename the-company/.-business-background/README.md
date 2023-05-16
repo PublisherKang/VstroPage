@@ -1,3 +1,2 @@
-# Ⅱ. Business Background
+# Ⅱ. 사업배경
 
-****
